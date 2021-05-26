@@ -23,7 +23,7 @@ Firstly, I started searching for what is the Microsoft Bot Framework and how to 
 
 <img width="800" height="400" alt="Screen Shot 2021-05-25 at 8 15 44 PM" src="https://user-images.githubusercontent.com/28203059/119680615-a37d9480-be41-11eb-9ce4-2d328c3d126c.png">
 
-<img width="400" height="400" alt="Screen Shot 2021-05-26 at 4 20 14 PM" src="https://user-images.githubusercontent.com/28203059/119676909-8b584600-be3e-11eb-8a55-377287fd2bd0.png">
+<img width="600" height="400" alt="Screen Shot 2021-05-26 at 4 20 14 PM" src="https://user-images.githubusercontent.com/28203059/119676909-8b584600-be3e-11eb-8a55-377287fd2bd0.png">
 
 
 - So I switched the work from C# to JavaScript to be able to create the project from the scartch and save time for the task delivery.
