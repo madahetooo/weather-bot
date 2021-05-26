@@ -104,6 +104,9 @@ After doing a research on this [issue](https://github.com/Azure/azure-quickstart
 - From the "Channel" Integration end point, I choosed WEB APP, and added the iframe to my personal website for example.
 <img width="1000" alt="Screen Shot 2021-05-26 at 3 53 38 PM" src="https://user-images.githubusercontent.com/28203059/119684342-b9408900-be44-11eb-9da7-3b3cf7347be9.png">
 
+## You can test it through this url:
+[BotWebApp](https://www.eslammedhat.me/home)
+
 ## References i used
 
 - [Bot Framework Documentation](https://docs.botframework.com)
