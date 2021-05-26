@@ -31,10 +31,11 @@ Firstly, I started searching for what is the Microsoft Bot Framework and how to 
 
         ```bash
         #Make sure both are installed globally
-           npm install -g yo
-           
+        npm install -g yo
+        ```
+        ```bash
         #Make sure both are installed globally
-           npm install -g generator-botbuilder
+        npm install -g generator-botbuilder
         ```
 - Choose "Echo Bot " Template and used the core bot features " Send and Receive Messages".
 - Create a New Project  
