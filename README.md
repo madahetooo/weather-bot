@@ -19,9 +19,13 @@ Firstly, I started searching for what is the Microsoft Bot Framework and how to 
 ## To run the bot i faced some troubles because of my mac:
 - After downloading the VS and the botBuilder VSIXV4.vsix file, i couldn't install it because this extention not supported on macOS.
 - So i downloaded a sample code locally to open it with VS to test and try the emulator and it works fine, but still cannot see the " Create Echo Bot" template from the starting new project panel, to be able to start from scartch as shown below.
-- <img width="800" height="400" alt="Screen Shot 2021-05-25 at 8 15 44 PM" src="https://user-images.githubusercontent.com/28203059/119680615-a37d9480-be41-11eb-9ce4-2d328c3d126c.png">
 
-<img width="800" height="400" alt="Screen Shot 2021-05-26 at 4 20 14 PM" src="https://user-images.githubusercontent.com/28203059/119676909-8b584600-be3e-11eb-8a55-377287fd2bd0.png">
+
+<img width="800" height="400" alt="Screen Shot 2021-05-25 at 8 15 44 PM" src="https://user-images.githubusercontent.com/28203059/119680615-a37d9480-be41-11eb-9ce4-2d328c3d126c.png">
+
+<img width="400" height="400" alt="Screen Shot 2021-05-26 at 4 20 14 PM" src="https://user-images.githubusercontent.com/28203059/119676909-8b584600-be3e-11eb-8a55-377287fd2bd0.png">
+
+
 - So I switched the work from C# to JavaScript to be able to create the project from the scartch and save time for the task delivery.
 - So,I started with installing the Yeoman generator for Bot Framework v4. It Will let me quickly set up a conversational AI bot using core AI capabilities.
 
@@ -52,6 +56,9 @@ Firstly, I started searching for what is the Microsoft Bot Framework and how to 
 ### And Here we go!
  <img width="1440" alt="Screen Shot 2021-05-26 at 12 08 11 AM" src="https://user-images.githubusercontent.com/28203059/119681048-053dfe80-be42-11eb-97d7-2316a77f4ac6.png">
 
+
+
+
 ### Connect to the bot using Bot Framework Emulator
 
 - Launch Bot Framework Emulator
@@ -68,6 +75,8 @@ I started with pushing the project to Github without the node_modules by adding 
 - Downloaded the latest version of Azure CLI.
 But while following the instructions, I faced this error while deploying:
 <img width="635" alt="Screen Shot 2021-05-26 at 4 54 01 PM" src="https://user-images.githubusercontent.com/28203059/119682213-fefc5200-be42-11eb-910c-b00c5b87f9ab.png">
+
+
 After doing a research on this [issue](https://github.com/Azure/azure-quickstart-templates/issues/7302), i followed a tutorial to solve it manually by adding: 
 - Azure Extension on VSC and connect it with Github repo.
 - Join Microsoft Azure dashboard.
@@ -75,10 +84,22 @@ After doing a research on this [issue](https://github.com/Azure/azure-quickstart
 - Create an App service plan.
 - Create a New Bot Web APP.
 <img width="1440" alt="Screen Shot 2021-05-26 at 4 11 54 PM" src="https://user-images.githubusercontent.com/28203059/119683470-f6f0e200-be43-11eb-925a-fb6fa9dc4a72.png">
+
+
+
 - Also made an Azure Pipeline.
 <img width="1000" alt="Screen Shot 2021-05-26 at 4 09 51 PM" src="https://user-images.githubusercontent.com/28203059/119683699-26075380-be44-11eb-86ea-32cb64f1da92.png">
+
+
+
+
 - And its Done.
 <img width="1000" alt="Screen Shot 2021-05-26 at 3 51 52 PM" src="https://user-images.githubusercontent.com/28203059/119683872-53540180-be44-11eb-830f-0a71f4196567.png">
+
+
+
+
+
 - From the "Channel" Integration end point, I choosed WEB APP, and added the iframe to my personal website for example.
 <img width="1000" alt="Screen Shot 2021-05-26 at 3 53 38 PM" src="https://user-images.githubusercontent.com/28203059/119684342-b9408900-be44-11eb-9da7-3b3cf7347be9.png">
 
