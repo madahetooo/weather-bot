@@ -29,18 +29,20 @@ Firstly, I started searching for what is the Microsoft Bot Framework and how to 
 - So I switched the work from C# to JavaScript to be able to create the project from the scartch and save time for the task delivery.
 - So,I started with installing the Yeoman generator for Bot Framework v4. It Will let me quickly set up a conversational AI bot using core AI capabilities.
 
-        ```bash
-        npm install -g yo
-        ```
-        ```bash
-        npm install -g generator-botbuilder
-        ```
+    ```bash
+    npm install -g yo
+    ```
+    ```bash
+    npm install -g generator-botbuilder
+    ```
+    
+     
 - Choose "Echo Bot " Template and used the core bot features " Send and Receive Messages".
 - Create a New Project  
-  
-        ```bash
-        yo botbuilder
-        ```
+    ```bash
+    yo botbuilder
+    ```
+    
 - Install modules
 
     ```bash
