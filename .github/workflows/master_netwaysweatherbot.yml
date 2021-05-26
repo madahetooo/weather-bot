@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'netwaysweatherbot'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ae124a4c5d5f414aa717558ce3a34aee }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ee1dfa93ef5d46119e8f5f8f1a4c1fef }}
         package: .
