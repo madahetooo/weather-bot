@@ -107,6 +107,32 @@ After doing a research on this [issue](https://github.com/Azure/azure-quickstart
 ## You can test it through this url:
 [BotWebApp](https://www.eslammedhat.me/home)
 
+
+## I used Luis.ai
+<img width="1438" alt="Screen Shot 2021-05-28 at 9 17 18 PM" src="https://user-images.githubusercontent.com/28203059/120066052-f2f7d680-c074-11eb-9859-f34cc73b3469.png">
+
+
+## I Also worked with QnA Maker 
+<img width="1438" alt="Screen Shot 2021-05-28 at 9 39 46 PM" src="https://user-images.githubusercontent.com/28203059/120066093-23d80b80-c075-11eb-94bc-8ce86f1bdcaa.png">
+
+
+And tested it and works as expected
+<img width="410" alt="Screen Shot 2021-05-28 at 9 40 42 PM" src="https://user-images.githubusercontent.com/28203059/120066110-34888180-c075-11eb-9199-ff4f6265c40a.png">
+
+
+## Then i published the QnA Maker and added the configuration to the .env file to hit the Knowloedge base
+<img width="1437" alt="Screen Shot 2021-05-28 at 9 44 09 PM" src="https://user-images.githubusercontent.com/28203059/120066156-7b767700-c075-11eb-9312-444ee15a3167.png">
+
+
+<img width="1440" alt="Screen Shot 2021-05-29 at 11 44 42 AM" src="https://user-images.githubusercontent.com/28203059/120066189-b24c8d00-c075-11eb-9cb6-b9aa57a056bb.png">
+
+
+## When it comes the enhancing the front end, i followed this tutorial
+- [Change chat bubble font and color](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-webchat-customization?view=azure-bot-service-4.0)
+
+<img width="798" alt="Screen Shot 2021-05-29 at 11 55 29 AM" src="https://user-images.githubusercontent.com/28203059/120066195-baa4c800-c075-11eb-93a3-8433e0cb51dd.png">
+
+
 ## References i used
 
 - [Bot Framework Documentation](https://docs.botframework.com)
