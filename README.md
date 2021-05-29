@@ -109,7 +109,8 @@ After doing a research on this [issue](https://github.com/Azure/azure-quickstart
 
 
 ## I used Luis.ai
-<img width="1438" alt="Screen Shot 2021-05-28 at 9 17 18 PM" src="https://user-images.githubusercontent.com/28203059/120066052-f2f7d680-c074-11eb-9859-f34cc73b3469.png">
+<img width="1440" alt="Screen Shot 2021-05-29 at 12 09 16 PM" src="https://user-images.githubusercontent.com/28203059/120066446-baf19300-c076-11eb-9847-2cc99426929d.png">
+
 
 
 ## I Also worked with QnA Maker 
